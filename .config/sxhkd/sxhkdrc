@@ -5,7 +5,7 @@ super + p
 	scrot ~/pix/Screenshots/ss.png
 
 super + shift + r
-	urxvt -e ranger
+	kitty -e ranger
 
 super + v
 	urxvt -e vimpc
